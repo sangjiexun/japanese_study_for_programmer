@@ -1,7 +1,7 @@
 # 【原创】程序员の日语自学金石篇-每日更新 
 <p align="center">
-  <a href="https://www.antdv.com/">
-    <img width="600" src="./image/jan-logo-v.png">
+  <a href="">
+    <img width="600" src="image/jan-logo-v.png">
   </a>
 </p>
 <h1 align="center">
