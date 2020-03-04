@@ -1,4 +1,4 @@
-# 【原创】程序员の日语自学金石篇-每日更新 
+[![Fork me on Gitee](https://gitee.com/jasonsang/japanese_study_for_programmer/widgets/widget_1.svg)](https://gitee.com/jasonsang/japanese_study_for_programmer)
 <p align="center">
   <a href="">
     <img width="600" src="image/jan-logo-v.png">
@@ -12,9 +12,8 @@
 
 <strong>Chinese Programer’s Japanese Book</strong>
 
-[![Travis branch](https://travis-ci.org/vueComponent/ant-design-vue.svg?branch=master)]()
-
-[同步更新网址]( https://github.com/users/souketuson/projects/1 )
+[中国地区Gitee访问网址](https://gitee.com/jasonsang/japanese_study_for_programmer)
+[项目提前看网址]( https://github.com/users/souketuson/projects/1 )
 </div>
 
 # 序言
