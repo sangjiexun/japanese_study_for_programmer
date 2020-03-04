@@ -12,7 +12,9 @@
 
 <strong>Chinese Programer’s Japanese Book</strong>
 
-[中国地区Gitee访问网址](https://gitee.com/jasonsang/japanese_study_for_programmer)
+[中国地区Gitee访问网址](https://gitee.com/jasonsang/japanese_study_for_programmer)</p>
+[GitHub访问地址](https://github.com/souketuson/japanese_study_for_programmer)</p>
+
 [项目提前看网址]( https://github.com/users/souketuson/projects/1 )
 </div>
 
