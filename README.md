@@ -58,7 +58,8 @@ step3：去日本工作或者深造（N2应试阶段、大学院IT软件专业�
 &nbsp;&nbsp;&nbsp;&nbsp;[让领导满意——日报、周报要做好](#) </p>
 &nbsp;&nbsp;&nbsp;&nbsp;[让工作更顺手——Excel-VBA技巧](#) </p>
 &nbsp;&nbsp;&nbsp;&nbsp;[善于总结技术点——对日软件开发用的软件及工具](#) </p>
-&nbsp;&nbsp;&nbsp;&nbsp;[善于总结技术点——dui r](#) </p>
+&nbsp;&nbsp;&nbsp;&nbsp;[善于总结技术点——对日软件开发语言——JAVA项目用到的技术点](#) </p>
+&nbsp;&nbsp;&nbsp;&nbsp;[善于总结技术点——对日软件开发语言——Python项目用到的技术点](#) </p>
 &nbsp;&nbsp;&nbsp;&nbsp;[善于总结技术点——那些年那些坑](#) </p>
 &nbsp;&nbsp;&nbsp;&nbsp;[年度总结——工作一年在公司中的点点滴滴](#) </p>
 
