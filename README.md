@@ -1,7 +1,4 @@
-<div align="right"></div>
 [![Fork me on Gitee](https://gitee.com/jasonsang/japanese_study_for_programmer/widgets/widget_1.svg)](https://gitee.com/jasonsang/japanese_study_for_programmer)
-
-
 <p align="center">
   <a href="">
     <img width="600" src="image/jan-logo-v.png">
